@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>自己紹介</title>
+  <script>
+    let countN = 0;
+    function countUp() {
+      countN += 1;
+      document.getElementById("count").innerText = countN;
+    }
+  </script>
+  <style>
+    #count {
+      width: 200px;
+      height: 200px;
+      font-size: xx-large;
+    }
+  </style>
+</head>
+<body>
+  <h1>小久保和喜</h1>
+  <p>小久保和喜です。</p>
+  <button id="count" onclick="countUp()">押す</button>
+  <p><a href="../index.html">Index</a></p>
+</body>
+</html>
