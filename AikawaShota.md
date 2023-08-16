@@ -1,7 +1,7 @@
 # _AikawaShota_'s profile
 
 Name:AikawaShota  
-Hoby:Shogi,MineCraft
+Hobby:Shogi,MineCraft
 
 ## SNS
 
